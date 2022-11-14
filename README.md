@@ -1,6 +1,4 @@
-# Fernando Arrieta
-
-## Electronic and SW Engineer turned Data Scientist
+## Electronic & SW Engineer turned Data Scientist
 
 ## Interests
 - Machine Learning
