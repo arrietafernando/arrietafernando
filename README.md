@@ -1,4 +1,4 @@
-## Electronic & SW Engineer turned Data Scientist
+## Electronic & Software Engineer - Data Scientist
 
 ## Interests
 - Machine Learning
