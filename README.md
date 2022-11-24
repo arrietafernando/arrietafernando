@@ -2,9 +2,9 @@
 
 ## Interests
 - Machine Learning
-- Artifical Intelligence
+- Artificial Intelligence
 - Graph Neural Networks
-- Spatio-Temporal forecasting
+- Spatio-Temporal Forecasting
 - Recommendation Systems
 - Factorization Machines
 
